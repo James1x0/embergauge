@@ -20,7 +20,7 @@
 	THE SOFTWARE.
 */
 
-App.AnalyticGaugeComponent = Ember.Component.extend({
+App.EmberGaugeComponent = Ember.Component.extend({
 	didInsertElement: function () {
 		this.send('buildGauge');
 	},
