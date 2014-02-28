@@ -3,7 +3,7 @@ embergauge
 
 ###An Ember.js real-time gauge component
 
-**Dependancies:**
+**Dependencies:**
 
 + [justGage](http://justgage.com/)
 + [Ember.js](http://emberjs.com/)
