@@ -34,8 +34,13 @@ Anywhere in your template. The built-in observer will rebuild the gauge when you
 
 
 `data`: `Number` Data to display and keep updated with. Don't try to pass words or something into it, it will break.
+
 `min`: `Number` Minimum number you want on the gauge.
+
 `max`: `Number` Maximum number you want on the gauge.
+
 `title`: `String` Title of the gauge.
+
 `label`: `String` Name of what you're measuring in.
+
 `gauge`: `String` Unique name of your gauge.
